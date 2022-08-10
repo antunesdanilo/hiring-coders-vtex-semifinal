@@ -1,13 +1,5 @@
 # Hiring coders 3 - Desafio fase 3 
 
-## Link para a loja instalada em workspace de produção:
-
-<br />
-
-[BITSIZED - GRUPO 4](https://groupfour--bitsized.myvtex.com)
-
-<br />
-
 ## Repositório blocos customizados de pontos:
   
 <br />
